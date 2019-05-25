@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">G5_week6</string>
+    <string name="title">Title</string>
+    <string name="user">Username</string>
+    <string name="user_add"> User Settings</string>
+    <string name="delete">delete</string>
+    <string name="complete">Completed:</string>
+    <string name="spinnerFirst">AssignTask</string>
+    <string name="spinnerLast">Unassigned</string>
+    <string name="assigned">Assigned to:</string>
+    <string name="todo">TODO</string>
+    <string name="save">Save</string>
+</resources>
